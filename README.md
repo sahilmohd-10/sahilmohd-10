@@ -1,10 +1,10 @@
 # Hi there, I'm Mohd Sahil 👋
 
-🎓 Computer Science student at **Shri Mata Vaishno Devi University**, Katra  
-🤖 Passionate about **Data Analysis**, **AI/ML**, and building smart tools  
-📍 Based in Katra, India  
-🌱 Currently learning advanced Machine Learning & Full Stack Development  
-💬 Ask me about Python, Data Analysis, Power BI, or AI projects  
+🎓 Computer Science student at **Shri Mata Vaishno Devi University**  
+📊 Aspiring **Data Analyst** — turning raw data into actionable insights  
+📍 Based in Gorakhpur, India  
+🌱 Currently working on real-world data analysis & visualization projects  
+💬 Ask me about Python, SQL, Power BI, Tableau or Excel  
 
 ---
 
@@ -21,12 +21,20 @@
 
 ## 🛠️ Skills & Tools
 
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+**Data Analysis**
+
+![Excel](https://img.shields.io/badge/Microsoft_Excel-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white)
 ![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
 ![Power BI](https://img.shields.io/badge/PowerBI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black)
-![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
-![Jupyter](https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&logo=jupyter&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
+![Tableau](https://img.shields.io/badge/Tableau-E97627?style=for-the-badge&logo=tableau&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+
+**Programming Languages**
+
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
+![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
+![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white)
 
 ---
 
@@ -42,9 +50,5 @@
 
 ## 📫 Connect with Me
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/mohd-sahil-5461932a8)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/mohd-sahil-5461932a8)
 [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:sahilmohammad512@gmail.com)
-
----
-
-⭐ *If you find my projects useful, consider giving them a star!*
