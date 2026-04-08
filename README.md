@@ -1,10 +1,17 @@
 # Hi there, I'm Mohd Sahil 👋
 
-🎓 Computer Science student at **Shri Mata Vaishno Devi University**  
-📊 Aspiring **Data Analyst** — turning raw data into actionable insights  
+🎓 Computer Science student at **Shri Mata Vaishno Devi University** 📊 Aspiring **Data Analyst** — turning raw data into actionable insights  
 📍 Based in Gorakhpur, India  
 🌱 Currently working on real-world data analysis & visualization projects  
 💬 Ask me about Python, SQL, Power BI, Tableau or Excel  
+
+---
+
+## 💼 Experience
+
+* **Freelance Data Analyst & Backend Developer** | Appmontize Media
+* **Data Analyst Apprentice** | IBM
+* **Data Science and AI/ML** | YBI Foundation
 
 ---
 
@@ -38,13 +45,13 @@
 
 ---
 
-## 📊 GitHub Stats
+## 📜 Certifications
 
-![Mohd Sahil's GitHub Stats](https://github-readme-stats.vercel.app/api?username=sahilmohd-10&show_icons=true&theme=tokyonight&hide_border=true)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=sahilmohd-10&layout=compact&theme=tokyonight&hide_border=true)
-
-[![GitHub Streak](https://streak-stats.demolab.com?user=sahilmohd-10&theme=tokyonight&hide_border=true)](https://git.io/streak-stats)
+* **Data Analyst Job Simulation** — Deloitte
+* **GenAI Powered Data Analyst Job Simulation** — TATA
+* **Data Science and Analysis** — Internshala Trainings
+* **Data Analytics Essentials** — Coursera
+* **AWS Foundation Course** — Amazon Web Services
 
 ---
 
