@@ -19,6 +19,7 @@
 
 | Project | Description | Tech |
 |---|---|---|
+| [reflection-tree-assignment](https://github.com/sahilmohd-10/reflection-tree-assignment) | Daily Reflection Tree — A deterministic end-of-day reflection tool with fixed branching logic, embedded web agent, grounded in organizational psychology | HTML, JSON, JavaScript |
 | [HR-Analytics-Attrition](https://github.com/sahilmohd-10/HR-Analytics-Attrition) | Interactive dashboard analyzing employee attrition, identifying key drivers like overtime, salary, and job satisfaction | Power BI, Python |
 | [customer_behavior_analysis](https://github.com/sahilmohd-10/customer_behavior_analysis) | Data analysis on customer behavior patterns | Python, SQL, Power BI |
 | [Trader-Behavioral-Analysis](https://github.com/sahilmohd-10/Trader-Behavioral-Analysis-Sentiment-vs.-Performance) | Analyzes how Fear & Greed influence trader performance using 211K+ records | Python, Jupyter |
