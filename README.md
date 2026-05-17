@@ -1,24 +1,20 @@
 <div align="center">
 
-<!-- ══════════════════════════════════════════════════ -->
-<!--                ANIMATED HEADER                   -->
-<!-- ══════════════════════════════════════════════════ -->
+<!-- HEADER -->
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:00d4ff,100:0d1117&height=240&section=header&text=Mohd%20Sahil&fontSize=65&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Data%20Analyst%20%7C%20AI%20Enthusiast%20%7C%20Problem%20Solver&descAlignY=60&descSize=18&descColor=d1d5db"/>
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:00d4ff,100:0d1117&height=240&section=header&text=Mohd%20Sahil&fontSize=65&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Data%20Analyst%20|%20AI%20Enthusiast%20|%20Problem%20Solver&descAlignY=60&descSize=18&descColor=d1d5db"/>
 
-<!-- ══════════════════════════════════════════════════ -->
-<!--                 TYPING ANIMATION                 -->
-<!-- ══════════════════════════════════════════════════ -->
+<!-- TYPING SVG -->
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=22&pause=1000&color=00D4FF&center=true&vCenter=true&width=800&lines=Turning+Raw+Data+Into+Insights+📊;Python+%7C+SQL+%7C+Power+BI+%7C+AI%2FML;Building+Real-World+Analytics+Projects+🚀;211K%2B+Records+Analyzed+📈;Open+Source+Contributor+💻;Always+Learning+Something+New+⚡)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=22&pause=1000&color=00D4FF&center=true&vCenter=true&width=850&lines=Turning+Raw+Data+Into+Insights+📊;Python+|+SQL+|+Power+BI+|+AI%2FML;Building+Real-World+Analytics+Projects+🚀;211K%2B+Records+Analyzed+📈;Open+Source+Contributor+💻;Always+Learning+Something+New+⚡)](https://git.io/typing-svg)
 
-<br/>
+<br/><br/>
 
 <img src="https://komarev.com/ghpvc/?username=sahilmohd-10&label=PROFILE+VIEWS&color=00d4ff&style=for-the-badge"/>
 
-<img src="https://img.shields.io/github/followers/sahilmohd-10?style=for-the-badge&color=00d4ff&labelColor=0d1117"/>
+<img src="https://img.shields.io/github/followers/sahilmohd-10?style=for-the-badge&color=00d4ff"/>
 
-<img src="https://img.shields.io/github/stars/sahilmohd-10?style=for-the-badge&color=00d4ff&labelColor=0d1117"/>
+<img src="https://img.shields.io/github/stars/sahilmohd-10?style=for-the-badge&color=00d4ff"/>
 
 </div>
 
@@ -34,39 +30,38 @@ class Sahil:
     def __init__(self):
         self.name = "Mohd Sahil"
         self.role = "Aspiring Data Analyst"
-        self.location = "Gorakhpur, India"
-        self.language_spoken = ["English", "Hindi"]
+        self.location = "India"
 
     def skills(self):
         return [
             "Python",
             "SQL",
             "Power BI",
-            "Tableau",
-            "Excel",
             "Machine Learning",
-            "Data Visualization"
+            "Tableau",
+            "Excel"
         ]
 
     def current_focus(self):
-        return "Building AI-powered analytics projects"
+        return "AI-powered analytics systems"
 
     def fun_fact(self):
-        return "I find patterns where others see noise."
+        return "I love transforming raw data into insights."
 
 me = Sahil()
-print("Thanks for visiting my profile 🚀")
+
+print("Welcome to my GitHub profile 🚀")
 ```
 
 <br/>
 
-- 🎓 B.Tech Student at **Shri Mata Vaishno Devi University**
+- 🎓 B.Tech Student at **SMVDU**
 - 📊 Passionate about **Data Analytics & AI**
-- 🚀 Building real-world projects using **Python & ML**
-- 📈 Analyzed **211K+ records** in behavioral analytics
-- 🤝 Open to collaborations and internships
-- 🌱 Currently learning **Advanced AI & Cloud**
-- ⚡ Goal: Become industry-ready for top tech companies
+- 🚀 Building real-world projects using Python
+- 📈 Worked on datasets with **211K+ records**
+- 🤝 Open to collaborations & internships
+- 🌱 Learning advanced AI and cloud systems
+- ⚡ Focused on becoming industry-ready
 
 <br clear="right"/>
 
@@ -76,14 +71,14 @@ print("Thanks for visiting my profile 🚀")
 
 <div align="center">
 
-| 🌟 Project | 🔥 Description | 🛠️ Tech Stack |
+| 🌟 Project | 🔥 Description | 🛠️ Tech |
 |---|---|---|
-| [🌳 Reflection Tree](https://github.com/sahilmohd-10/reflection-tree-assignment) | Reflection tool using organizational psychology | `HTML` `JS` `JSON` |
-| [📊 HR Analytics Dashboard](https://github.com/sahilmohd-10/HR-Analytics-Attrition) | Dashboard to identify attrition patterns | `Power BI` `Python` |
-| [🛒 Customer Behavior Analysis](https://github.com/sahilmohd-10/customer_behavior_analysis) | Customer insights & behavioral patterns | `Python` `SQL` |
-| [📈 Trader Behavioral Analysis](https://github.com/sahilmohd-10/Trader-Behavioral-Analysis-Sentiment-vs.-Performance) | Fear vs Greed sentiment analysis on 211K+ records | `Python` `Jupyter` |
-| [🤖 AI Tools Extractor](https://github.com/sahilmohd-10/ai-tools-data-extraction) | Extracts and analyzes AI tools from web | `Python` `Web Scraping` |
-| [🧭 PathForge AI](https://github.com/sahilmohd-10/PathForge---Ai-career-path-navigator) | AI career navigation platform | `TypeScript` `AI/ML` |
+| [🌳 Reflection Tree](https://github.com/sahilmohd-10/reflection-tree-assignment) | Reflection system using organizational psychology | `HTML` `JavaScript` |
+| [📊 HR Analytics Dashboard](https://github.com/sahilmohd-10/HR-Analytics-Attrition) | Employee attrition analytics dashboard | `Power BI` `Python` |
+| [🛒 Customer Behavior Analysis](https://github.com/sahilmohd-10/customer_behavior_analysis) | Customer insights & behavioral analysis | `Python` `SQL` |
+| [📈 Trader Behavioral Analysis](https://github.com/sahilmohd-10/Trader-Behavioral-Analysis-Sentiment-vs.-Performance) | Sentiment analysis using Fear & Greed index | `Python` |
+| [🤖 AI Tools Extractor](https://github.com/sahilmohd-10/ai-tools-data-extraction) | Web scraping and AI tools analytics | `Python` |
+| [🧭 PathForge AI](https://github.com/sahilmohd-10/PathForge---Ai-career-path-navigator) | AI-based career navigation platform | `AI/ML` |
 
 </div>
 
@@ -97,17 +92,19 @@ print("Thanks for visiting my profile 🚀")
 
 <img src="https://skillicons.dev/icons?i=python,java,cpp,js,ts,mysql"/>
 
----
+<br/><br/>
 
-## 📊 Data Science & Analytics
+## 📊 Data Analytics & AI
 
 <img src="https://skillicons.dev/icons?i=tensorflow,pytorch"/>
+
+<br/><br/>
 
 <img src="https://img.shields.io/badge/PowerBI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black"/>
 
 <img src="https://img.shields.io/badge/Tableau-E97627?style=for-the-badge&logo=tableau&logoColor=white"/>
 
----
+<br/><br/>
 
 ## ☁️ Tools & Platforms
 
@@ -121,27 +118,27 @@ print("Thanks for visiting my profile 🚀")
 
 <div align="center">
 
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=sahilmohd-10&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=00d4ff&icon_color=00d4ff&text_color=c9d1d9"/>
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=sahilmohd-10&show_icons=true&theme=tokyonight&hide_border=true"/>
 
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=sahilmohd-10&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=00d4ff&text_color=c9d1d9"/>
-
-<br/><br/>
-
-<img width="70%" src="https://streak-stats.demolab.com?user=sahilmohd-10&theme=tokyonight&hide_border=true&background=0D1117&ring=00d4ff&fire=00d4ff&currStreakLabel=00d4ff"/>
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=sahilmohd-10&layout=compact&theme=tokyonight&hide_border=true"/>
 
 <br/><br/>
 
-<img width="95%" src="https://github-readme-activity-graph.vercel.app/graph?username=sahilmohd-10&bg_color=0d1117&color=00d4ff&line=00d4ff&point=ffffff&area=true&hide_border=true"/>
+<img width="70%" src="https://streak-stats.demolab.com?user=sahilmohd-10&theme=tokyonight&hide_border=true"/>
+
+<br/><br/>
+
+<img width="95%" src="https://github-readme-activity-graph.vercel.app/graph?username=sahilmohd-10&theme=tokyo-night&hide_border=true"/>
 
 </div>
 
 ---
 
-# 🏆 GitHub Achievements
+# 🏆 GitHub Trophies
 
 <div align="center">
 
-<img src="https://github-profile-trophy.vercel.app/?username=sahilmohd-10&theme=tokyonight&no-frame=true&no-bg=true&margin-w=8&row=2&column=4"/>
+<img src="https://github-profile-trophy.vercel.app/?username=sahilmohd-10&theme=tokyonight&no-frame=true&no-bg=true&margin-w=8"/>
 
 </div>
 
@@ -153,10 +150,10 @@ print("Thanks for visiting my profile 🚀")
 
 <picture>
   <source media="(prefers-color-scheme: dark)"
-    srcset="https://raw.githubusercontent.com/sahilmohd-10/sahilmohd-10/output/github-contribution-grid-snake-dark.svg" />
+    srcset="https://raw.githubusercontent.com/sahilmohd-10/sahilmohd-10/output/github-contribution-grid-snake-dark.svg"/>
 
   <source media="(prefers-color-scheme: light)"
-    srcset="https://raw.githubusercontent.com/sahilmohd-10/sahilmohd-10/output/github-contribution-grid-snake.svg" />
+    srcset="https://raw.githubusercontent.com/sahilmohd-10/sahilmohd-10/output/github-contribution-grid-snake.svg"/>
 
   <img alt="github contribution snake animation"
     src="https://raw.githubusercontent.com/sahilmohd-10/sahilmohd-10/output/github-contribution-grid-snake-dark.svg"/>
@@ -170,11 +167,11 @@ print("Thanks for visiting my profile 🚀")
 
 <div align="center">
 
-✅ Master Data Structures & Algorithms  
-✅ Build scalable AI systems  
+✅ Master DSA  
+✅ Build AI-powered products  
 ✅ Contribute to Open Source  
-✅ Become industry-ready for top tech companies  
-✅ Build impactful AI products  
+✅ Become a top Data/AI Engineer  
+✅ Build impactful technology  
 
 </div>
 
@@ -187,10 +184,10 @@ print("Thanks for visiting my profile 🚀")
 | 🏅 Certification | 🏢 Organization |
 |---|---|
 | Data Analyst Job Simulation | Deloitte |
-| GenAI Powered Data Analyst Simulation | TATA Forage |
-| Data Science & Analysis | Internshala |
+| GenAI Data Analyst Simulation | TATA Forage |
+| Data Science & Analytics | Internshala |
 | Data Analytics Essentials | Coursera |
-| AWS Foundation | Amazon Web Services |
+| AWS Foundation | AWS |
 
 </div>
 
@@ -226,11 +223,11 @@ print("Thanks for visiting my profile 🚀")
 
 ---
 
-# 🎵 Coding Vibes
+# 🎵 Coding Zone
 
 <div align="center">
 
-<img src="https://media.giphy.com/media/L8K62iTDkzGX6/giphy.gif" width="400"/>
+<img width="400" src="https://media.giphy.com/media/L8K62iTDkzGX6/giphy.gif"/>
 
 </div>
 
@@ -238,7 +235,7 @@ print("Thanks for visiting my profile 🚀")
 
 <div align="center">
 
-## ⚡ “Data is the new oil, but insights are the real fuel.”
+## ⚡ "Data becomes powerful when transformed into decisions."
 
 <br/>
 
