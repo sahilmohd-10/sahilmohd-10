@@ -117,11 +117,6 @@ print("Welcome to my GitHub profile 🚀")
 # 📊 GitHub Analytics
 
 <div align="center">
-
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=sahilmohd-10&show_icons=true&theme=tokyonight&hide_border=true"/>
-
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=sahilmohd-10&layout=compact&theme=tokyonight&hide_border=true"/>
-
 <br/><br/>
 
 <img width="70%" src="https://streak-stats.demolab.com?user=sahilmohd-10&theme=tokyonight&hide_border=true"/>
